@@ -14,3 +14,7 @@ p {
 img {
     width: 200px;
 }
+
+body {
+    background-color: grey;
+}
